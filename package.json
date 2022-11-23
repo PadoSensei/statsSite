@@ -1,7 +1,7 @@
 {
   "name": "stats-site",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/statsSite",
+  "homepage": "https://PadoSensei.github.io/statsSite",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
